@@ -1,0 +1,1 @@
+web: gunicorn open_data_api.wsgi:application
