@@ -1,0 +1,1 @@
+[{"model": "tam.transportmode", "fields": {"code": 0, "mode": "tram"}},{"model": "tam.transportmode", "fields": {"code": 1, "mode": "metro"}}, {"model": "tam.transportmode", "fields": {"code": 2, "mode": "rail"}}, {"model": "tam.transportmode", "fields": {"code": 3, "mode": "bus"}}]
